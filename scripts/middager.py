@@ -25,7 +25,11 @@ def middager():
     "Grøt",
     "Biffsnadder",
     "Pizza",
-    "Vårruller"
+    "Vårruller",
+    "Fajitas",
+    "Pitabrød m/skinke",
+    "Bakt potet m/skinke",
+    "Frossenpizza",
     ],
     'Ingredienser' : [
     ["Potetmos", "Pølser", "Brokkoli"], 
@@ -50,7 +54,11 @@ def middager():
     ["Grøt", "Smør", "Kanel"],
     ["Biffstrimler", "Burgerbrød", "Pommes frites", "Salat", "Bernaise"],
     ["Peppes pizzasaus", "Pizzabunn", "Ost", "Strandaskinke", "Ruccola", "Rømmedressing", "Pepperoni"],
-    ["Vårruller", "Ris"]
+    ["Vårruller", "Ris"],
+    ["Fajitaskrydder", "Kyllingfilet", "Paprika", "Rødløk", "Lime", "Tacolefser"],
+    ["Pitabrød", "Skinke", "Ost", "Salat", "Paprika", "Mais", "Avokado"],
+    ["Bakt potet", "Kryddersmør", "Skinke", "Mais", "Smør", "Bacon", "Ost"],
+    ["Frossenpizza"]
     ]
     })
     return df
